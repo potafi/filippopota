@@ -1,9 +1,10 @@
-# filippopota
+# Chemist and Data scientist
 
-#Data Scientist
 ### Education
 Phisical Chemistry, PhD
-###Work experience
+Trinity College Dublin 
+
+### Work experience
 
 ###Certification
 
