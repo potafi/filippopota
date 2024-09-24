@@ -2,14 +2,16 @@
 
 ### Education
 
+### Education
+
 **PhD in Physical Chemistry**  
-_Trinity College Dublin_ 2025 
+_Trinity College Dublin_, 2025 
 
-**Master Degree in Chemistry**
-_University of Naples "Federico II"_ 2020
+**Master's Degree in Chemistry**  
+_University of Naples "Federico II"_, 2020
 
-**Bacherol Degree in Chemical Sciences**
-_University of Naples "Federico II"_ 2017
+**Bachelor's Degree in Chemical Sciences**  
+_University of Naples "Federico II"_, 2017
 
 ### Work experience
 
