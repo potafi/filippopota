@@ -12,10 +12,10 @@ _University of Naples "Federico II", Naples_, 2020
 _University of Naples "Federico II", Naples_, 2017
 
 ### Certifications
-**Postgraduate certificate in statistics and Data science**  
+**Postgraduate certificate in Statistics and Data science**  
 _Trinity College Dublin, Dublin_, 2024
 
-**Licebsed as Chemist**  
+**Licensed as Chemist**  
 _University of Naples "Federico II", Naples_, 2020
 
 **English Language enhancement course**  
